@@ -1,0 +1,724 @@
+{
+    "name": "New Scene",
+    "assetRoot": "True",
+    "children": [
+        {
+            "name": "PRE_SavableVariablesData(Clone)",
+            "assetRoot": "False",
+            "components": [
+                {
+                    "name": "SavableVariablesData",
+                    "variables": {
+                        "camPresetPositions": {
+                            "Items": [
+                                {
+                                    "x": 11.529999732971191,
+                                    "y": 7.730000019073486,
+                                    "z": -8.84000015258789
+                                },
+                                {
+                                    "x": 11.529999732971191,
+                                    "y": 7.730000019073486,
+                                    "z": -8.84000015258789
+                                },
+                                {
+                                    "x": 11.529999732971191,
+                                    "y": 7.730000019073486,
+                                    "z": -8.84000015258789
+                                },
+                                {
+                                    "x": 11.529999732971191,
+                                    "y": 7.730000019073486,
+                                    "z": -8.84000015258789
+                                },
+                                {
+                                    "x": 11.529999732971191,
+                                    "y": 7.730000019073486,
+                                    "z": -8.84000015258789
+                                },
+                                {
+                                    "x": 11.529999732971191,
+                                    "y": 7.730000019073486,
+                                    "z": -8.84000015258789
+                                },
+                                {
+                                    "x": 11.529999732971191,
+                                    "y": 7.730000019073486,
+                                    "z": -8.84000015258789
+                                },
+                                {
+                                    "x": 11.529999732971191,
+                                    "y": 7.730000019073486,
+                                    "z": -8.84000015258789
+                                },
+                                {
+                                    "x": 11.529999732971191,
+                                    "y": 7.730000019073486,
+                                    "z": -8.84000015258789
+                                },
+                                {
+                                    "x": 11.529999732971191,
+                                    "y": 7.730000019073486,
+                                    "z": -8.84000015258789
+                                }
+                            ]
+                        },
+                        "camPresetRotations": {
+                            "Items": [
+                                {
+                                    "x": 0.21393778920173645,
+                                    "y": -0.1480122059583664,
+                                    "z": 0.03281351551413536,
+                                    "w": 0.9650110006332397
+                                },
+                                {
+                                    "x": 0.21393778920173645,
+                                    "y": -0.1480122059583664,
+                                    "z": 0.03281351551413536,
+                                    "w": 0.9650110006332397
+                                },
+                                {
+                                    "x": 0.21393778920173645,
+                                    "y": -0.1480122059583664,
+                                    "z": 0.03281351551413536,
+                                    "w": 0.9650110006332397
+                                },
+                                {
+                                    "x": 0.21393778920173645,
+                                    "y": -0.1480122059583664,
+                                    "z": 0.03281351551413536,
+                                    "w": 0.9650110006332397
+                                },
+                                {
+                                    "x": 0.21393778920173645,
+                                    "y": -0.1480122059583664,
+                                    "z": 0.03281351551413536,
+                                    "w": 0.9650110006332397
+                                },
+                                {
+                                    "x": 0.21393778920173645,
+                                    "y": -0.1480122059583664,
+                                    "z": 0.03281351551413536,
+                                    "w": 0.9650110006332397
+                                },
+                                {
+                                    "x": 0.21393778920173645,
+                                    "y": -0.1480122059583664,
+                                    "z": 0.03281351551413536,
+                                    "w": 0.9650110006332397
+                                },
+                                {
+                                    "x": 0.21393778920173645,
+                                    "y": -0.1480122059583664,
+                                    "z": 0.03281351551413536,
+                                    "w": 0.9650110006332397
+                                },
+                                {
+                                    "x": 0.21393778920173645,
+                                    "y": -0.1480122059583664,
+                                    "z": 0.03281351551413536,
+                                    "w": 0.9650110006332397
+                                },
+                                {
+                                    "x": 0.21393778920173645,
+                                    "y": -0.1480122059583664,
+                                    "z": 0.03281351551413536,
+                                    "w": 0.9650110006332397
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ProductGenerator-COD(Clone)",
+            "assetRoot": "False",
+            "components": [
+                {
+                    "name": "GameObjectInformation",
+                    "variables": {
+                        "source": "https://nexus.mymarel.com/repository/unity/database_v01/FISH/productgenerator-cod/productgenerator-cod.assetBundle",
+                        "position": {
+                            "x": 0,
+                            "y": 0,
+                            "z": 0
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0,
+                            "w": 1.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "mirrorAxis": {
+                            "value__": 3
+                        },
+                        "isMirrored": "False",
+                        "visible": "True",
+                        "isLocked": "False",
+                        "relativeSource": "database_v01/FISH/productgenerator-cod/productgenerator-cod.assetBundle",
+                        "inMagnetPosition": {
+                            "x": -1.0,
+                            "y": -1.0,
+                            "z": -1.0
+                        },
+                        "outMagnetPosition": {
+                            "x": 0.6627998352050781,
+                            "y": 1.0432000160217285,
+                            "z": 0.0
+                        }
+                    }
+                }
+            ],
+            "children": [
+                {
+                    "name": "PG_Belt",
+                    "assetRoot": "False",
+                    "components": [
+                        {
+                            "name": "ProductGeneratorBeltUI",
+                            "variables": {
+                                "syncAttributes": {
+                                    "Items": []
+                                },
+                                "syncAttributeValues": {
+                                    "Items": []
+                                },
+                                "generateProductsFromFile": "False",
+                                "productFile": "",
+                                "generateSingleProductFromKeyPress": "False",
+                                "timeBetween": 1.5,
+                                "productRotation": 0,
+                                "currentProductIndex": 1,
+                                "showBelt": "True",
+                                "onlyGenerateWhenTriggerIsFree": "False",
+                                "isUIOpen": "False"
+                            }
+                        }
+                    ],
+                    "children": [
+                        {
+                            "name": "Trigger",
+                            "assetRoot": "False",
+                            "components": [
+                                {
+                                    "name": "PGResizableTrigger",
+                                    "variables": {
+                                        "triggerScale": 1,
+                                        "isUIOpen": "False"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "outMagnet",
+                            "assetRoot": "False",
+                            "components": [
+                                {
+                                    "name": "MagneticSnapper",
+                                    "variables": {
+                                        "isMagnetEnabled": "True",
+                                        "magnetType": {
+                                            "value__": 1
+                                        },
+                                        "checkForMagnets": "False",
+                                        "notUnlockable": "False"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "KF6101-FleXicut(Clone)",
+            "assetRoot": "False",
+            "components": [
+                {
+                    "name": "GameObjectInformation",
+                    "variables": {
+                        "source": "https://nexus.mymarel.com/repository/unity/database_v01/FISH/kf6101/kf6101-flexicut.assetBundle",
+                        "position": {
+                            "x": 3.4446001052856445,
+                            "y": 0.04079997539520264,
+                            "z": 0.0
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0,
+                            "w": 1.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "mirrorAxis": {
+                            "value__": 3
+                        },
+                        "isMirrored": "False",
+                        "visible": "True",
+                        "isLocked": "False",
+                        "relativeSource": "database_v01/FISH/kf6101/kf6101-flexicut.assetBundle",
+                        "inMagnetPosition": {
+                            "x": -2.7818002700805664,
+                            "y": 1.0024000406265259,
+                            "z": 0.0
+                        },
+                        "outMagnetPosition": {
+                            "x": 2.733499526977539,
+                            "y": 1.0347000360488892,
+                            "z": 0.0
+                        }
+                    }
+                }
+            ],
+            "children": [
+                {
+                    "name": "KF6101-A00-FleXicutBasicUnit",
+                    "assetRoot": "False",
+                    "children": [
+                        {
+                            "name": "KF6101-A00-FleXicutBasicUnit-ProductPath",
+                            "assetRoot": "False",
+                            "children": [
+                                {
+                                    "name": "FlexiCut-FlowSim",
+                                    "assetRoot": "False",
+                                    "children": [
+                                        {
+                                            "name": "Cod-CutPatterns",
+                                            "assetRoot": "False",
+                                            "children": [
+                                                {
+                                                    "name": "Pattern5",
+                                                    "assetRoot": "False",
+                                                    "children": [
+                                                        {
+                                                            "name": "ProductTrigger",
+                                                            "assetRoot": "False",
+                                                            "components": [
+                                                                {
+                                                                    "name": "TriggerWeight",
+                                                                    "variables": {
+                                                                        "minWeight": 0,
+                                                                        "maxWeight": 0.7,
+                                                                        "logic": {
+                                                                            "value__": 0
+                                                                        },
+                                                                        "not": "False"
+                                                                    }
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "Pattern10",
+                                                    "assetRoot": "False",
+                                                    "children": [
+                                                        {
+                                                            "name": "ProductTrigger",
+                                                            "assetRoot": "False",
+                                                            "components": [
+                                                                {
+                                                                    "name": "TriggerWeight",
+                                                                    "variables": {
+                                                                        "minWeight": 0.7,
+                                                                        "maxWeight": 1.2,
+                                                                        "logic": {
+                                                                            "value__": 0
+                                                                        },
+                                                                        "not": "False"
+                                                                    }
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "Pattern11",
+                                                    "assetRoot": "False",
+                                                    "children": [
+                                                        {
+                                                            "name": "ProductTrigger",
+                                                            "assetRoot": "False",
+                                                            "components": [
+                                                                {
+                                                                    "name": "TriggerWeight",
+                                                                    "variables": {
+                                                                        "minWeight": 1.2,
+                                                                        "maxWeight": 1.8,
+                                                                        "logic": {
+                                                                            "value__": 0
+                                                                        },
+                                                                        "not": "False"
+                                                                    }
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "Pattern11_2",
+                                                    "assetRoot": "False",
+                                                    "children": [
+                                                        {
+                                                            "name": "ProductTrigger",
+                                                            "assetRoot": "False",
+                                                            "components": [
+                                                                {
+                                                                    "name": "TriggerWeight",
+                                                                    "variables": {
+                                                                        "minWeight": 1.8,
+                                                                        "maxWeight": 4,
+                                                                        "logic": {
+                                                                            "value__": 0
+                                                                        },
+                                                                        "not": "False"
+                                                                    }
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "inMagnet",
+                    "assetRoot": "False",
+                    "components": [
+                        {
+                            "name": "MagneticSnapper",
+                            "variables": {
+                                "isMagnetEnabled": "True",
+                                "magnetType": {
+                                    "value__": 0
+                                },
+                                "checkForMagnets": "False",
+                                "notUnlockable": "False"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "outMagnet",
+                    "assetRoot": "False",
+                    "components": [
+                        {
+                            "name": "MagneticSnapper",
+                            "variables": {
+                                "isMagnetEnabled": "True",
+                                "magnetType": {
+                                    "value__": 1
+                                },
+                                "checkForMagnets": "False",
+                                "notUnlockable": "False"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "GR6513-SensorX-302(Clone)",
+            "assetRoot": "False",
+            "components": [
+                {
+                    "name": "GameObjectInformation",
+                    "variables": {
+                        "source": "https://nexus.mymarel.com/repository/unity/database_v01/CROSS-INDUSTRY/gr6513/gr6513-sensorx-302.assetBundle",
+                        "position": {
+                            "x": 9.437399625778198,
+                            "y": 0.11379998922348022,
+                            "z": 0.00010013580322265625
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0,
+                            "w": 1.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "mirrorAxis": {
+                            "value__": 3
+                        },
+                        "isMirrored": "False",
+                        "visible": "True",
+                        "isLocked": "False",
+                        "relativeSource": "database_v01/CROSS-INDUSTRY/gr6513/gr6513-sensorx-302.assetBundle",
+                        "inMagnetPosition": {
+                            "x": -3.2592999935150146,
+                            "y": 0.9617000222206116,
+                            "z": -0.00010013580322265625
+                        },
+                        "outMagnetPosition": {
+                            "x": 2.328700065612793,
+                            "y": 0.920799970626831,
+                            "z": -0.00010013580322265625
+                        }
+                    }
+                },
+                {
+                    "name": "GR6513SensorXUI",
+                    "variables": {
+                        "rejectPercentage": 10,
+                        "isUIOpen": "False"
+                    }
+                }
+            ],
+            "children": [
+                {
+                    "name": "GR6513-A00-SensorXBaseUnit",
+                    "assetRoot": "False",
+                    "children": [
+                        {
+                            "name": "GR6513-A00-SensorXBaseUnit-ProductPath (1)",
+                            "assetRoot": "False",
+                            "children": [
+                                {
+                                    "name": "inMagnet",
+                                    "assetRoot": "False",
+                                    "components": [
+                                        {
+                                            "name": "MagneticSnapper",
+                                            "variables": {
+                                                "isMagnetEnabled": "True",
+                                                "magnetType": {
+                                                    "value__": 0
+                                                },
+                                                "checkForMagnets": "False",
+                                                "notUnlockable": "False"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "outMagnet",
+                                    "assetRoot": "False",
+                                    "components": [
+                                        {
+                                            "name": "MagneticSnapper",
+                                            "variables": {
+                                                "isMagnetEnabled": "True",
+                                                "magnetType": {
+                                                    "value__": 1
+                                                },
+                                                "checkForMagnets": "False",
+                                                "notUnlockable": "False"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "GR6513-SensorX-302(Clone)",
+            "assetRoot": "False",
+            "components": [
+                {
+                    "name": "GameObjectInformation",
+                    "variables": {
+                        "source": "https://nexus.mymarel.com/repository/unity/database_v01/CROSS-INDUSTRY/gr6513/gr6513-sensorx-302.assetBundle",
+                        "position": {
+                            "x": 15.025399684906006,
+                            "y": 0.07289993762969971,
+                            "z": 0.00010013580322265625
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0,
+                            "w": 1.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "mirrorAxis": {
+                            "value__": 3
+                        },
+                        "isMirrored": "False",
+                        "visible": "True",
+                        "isLocked": "False",
+                        "relativeSource": "database_v01/CROSS-INDUSTRY/gr6513/gr6513-sensorx-302.assetBundle",
+                        "inMagnetPosition": {
+                            "x": -3.2592999935150146,
+                            "y": 0.9617000222206116,
+                            "z": -0.00010013580322265625
+                        },
+                        "outMagnetPosition": {
+                            "x": 2.328700065612793,
+                            "y": 0.920799970626831,
+                            "z": -0.00010013580322265625
+                        }
+                    }
+                },
+                {
+                    "name": "GR6513SensorXUI",
+                    "variables": {
+                        "rejectPercentage": 10,
+                        "isUIOpen": "False"
+                    }
+                }
+            ],
+            "children": [
+                {
+                    "name": "GR6513-A00-SensorXBaseUnit",
+                    "assetRoot": "False",
+                    "children": [
+                        {
+                            "name": "GR6513-A00-SensorXBaseUnit-ProductPath (1)",
+                            "assetRoot": "False",
+                            "children": [
+                                {
+                                    "name": "inMagnet",
+                                    "assetRoot": "False",
+                                    "components": [
+                                        {
+                                            "name": "MagneticSnapper",
+                                            "variables": {
+                                                "isMagnetEnabled": "True",
+                                                "magnetType": {
+                                                    "value__": 0
+                                                },
+                                                "checkForMagnets": "False",
+                                                "notUnlockable": "False"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "outMagnet",
+                                    "assetRoot": "False",
+                                    "components": [
+                                        {
+                                            "name": "MagneticSnapper",
+                                            "variables": {
+                                                "isMagnetEnabled": "True",
+                                                "magnetType": {
+                                                    "value__": 1
+                                                },
+                                                "checkForMagnets": "False",
+                                                "notUnlockable": "False"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "GR8241-MWeigher-SL(Clone)",
+            "assetRoot": "False",
+            "components": [
+                {
+                    "name": "GameObjectInformation",
+                    "variables": {
+                        "source": "https://nexus.mymarel.com/repository/unity/database_v01/CROSS-INDUSTRY/gr8241/gr8241-mweigher-sl.assetBundle",
+                        "position": {
+                            "x": 18.131799697875977,
+                            "y": -0.06300008296966553,
+                            "z": 0.0
+                        },
+                        "rotation": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0,
+                            "w": 1.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0,
+                            "z": 1.0
+                        },
+                        "mirrorAxis": {
+                            "value__": 3
+                        },
+                        "isMirrored": "False",
+                        "visible": "True",
+                        "isLocked": "False",
+                        "relativeSource": "database_v01/CROSS-INDUSTRY/gr8241/gr8241-mweigher-sl.assetBundle",
+                        "inMagnetPosition": {
+                            "x": -0.7776999473571777,
+                            "y": 1.0566999912261963,
+                            "z": 0.0
+                        },
+                        "outMagnetPosition": {
+                            "x": 0.6773004531860352,
+                            "y": 1.0566999912261963,
+                            "z": 0.0
+                        }
+                    }
+                }
+            ],
+            "children": [
+                {
+                    "name": "GR8241-MWeigher-SL-ProductPath",
+                    "assetRoot": "False",
+                    "children": [
+                        {
+                            "name": "outMagnet",
+                            "assetRoot": "False",
+                            "components": [
+                                {
+                                    "name": "MagneticSnapper",
+                                    "variables": {
+                                        "isMagnetEnabled": "True",
+                                        "magnetType": {
+                                            "value__": 1
+                                        },
+                                        "checkForMagnets": "False",
+                                        "notUnlockable": "False"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "inMagnet",
+                            "assetRoot": "False",
+                            "components": [
+                                {
+                                    "name": "MagneticSnapper",
+                                    "variables": {
+                                        "isMagnetEnabled": "True",
+                                        "magnetType": {
+                                            "value__": 0
+                                        },
+                                        "checkForMagnets": "False",
+                                        "notUnlockable": "False"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -45,3 +45,13 @@
 .category:hover {
   background-color: #e3e3eb;
 }
+
+.image {
+  width: 150px; /* Adjust width as needed */
+  height: auto; /* Maintain aspect ratio */
+  flex-shrink: 0; /* Prevents the image from shrinking */
+}
+
+.chat {
+  flex-grow: 1; /* Allows the chat component to take up remaining space */
+}
