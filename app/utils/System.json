@@ -138,7 +138,7 @@
                 {
                     "name": "GameObjectInformation",
                     "variables": {
-                        "source": "https://nexus.mymarel.com/repository/unity/database_v01/FISH/productgenerator-cod/productgenerator-cod.assetBundle",
+                        "source": "https://nexus.mymarel.com/repository/unity/database_v01/FISH/productgeneratorcod/productgenerator-cod.assetBundle",
                         "position": {
                             "x": 0,
                             "y": 0,
@@ -161,7 +161,7 @@
                         "isMirrored": "False",
                         "visible": "True",
                         "isLocked": "False",
-                        "relativeSource": "database_v01/FISH/productgenerator-cod/productgenerator-cod.assetBundle",
+                        "relativeSource": "FISH/productgeneratorcod/productgenerator-cod.assetBundle",
                         "inMagnetPosition": {
                             "x": -1.0,
                             "y": -1.0,
@@ -266,7 +266,7 @@
                         "isMirrored": "False",
                         "visible": "True",
                         "isLocked": "False",
-                        "relativeSource": "database_v01/FISH/kf6101/kf6101-flexicut.assetBundle",
+                        "relativeSource": "FISH/kf6101/kf6101-flexicut.assetBundle",
                         "inMagnetPosition": {
                             "x": -2.7818002700805664,
                             "y": 1.0024000406265259,
@@ -463,7 +463,7 @@
                         "isMirrored": "False",
                         "visible": "True",
                         "isLocked": "False",
-                        "relativeSource": "database_v01/CROSS-INDUSTRY/gr6513/gr6513-sensorx-302.assetBundle",
+                        "relativeSource": "CROSS-INDUSTRY/gr6513/gr6513-sensorx-302.assetBundle",
                         "inMagnetPosition": {
                             "x": -3.2592999935150146,
                             "y": 0.9617000222206116,
@@ -563,7 +563,7 @@
                         "isMirrored": "False",
                         "visible": "True",
                         "isLocked": "False",
-                        "relativeSource": "database_v01/CROSS-INDUSTRY/gr6513/gr6513-sensorx-302.assetBundle",
+                        "relativeSource": "CROSS-INDUSTRY/gr6513/gr6513-sensorx-302.assetBundle",
                         "inMagnetPosition": {
                             "x": -3.2592999935150146,
                             "y": 0.9617000222206116,
@@ -663,7 +663,7 @@
                         "isMirrored": "False",
                         "visible": "True",
                         "isLocked": "False",
-                        "relativeSource": "database_v01/CROSS-INDUSTRY/gr8241/gr8241-mweigher-sl.assetBundle",
+                        "relativeSource": "CROSS-INDUSTRY/gr8241/gr8241-mweigher-sl.assetBundle",
                         "inMagnetPosition": {
                             "x": -0.7776999473571777,
                             "y": 1.0566999912261963,
