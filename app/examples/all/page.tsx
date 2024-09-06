@@ -35,7 +35,7 @@ const FunctionCalling = () => {
 
   const functionCallHandler = async (call) => {
     if (call?.function?.name === "display_processing_line") {
-      const args = JSON.parse(call.function.arguments);
+      const args = JSON.parse(call.function.arguments) as { line_number: number };
       const status = displayProcessingLine(args.line_number);
       grabImage(); // This will update the imgSrc state
       return JSON.stringify({ message: 'Success!' }); //JSON.stringify(status);
