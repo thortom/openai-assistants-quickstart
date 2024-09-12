@@ -7,6 +7,7 @@ dotenv.config({ path: "../../.env" });
 const old_system = require('./systems/System.json');
 const salmon_filleting = require('./systems/Salmon_Filleting_Line_v2.json');
 const salmon_slicing = require('./systems/Salmon_Slicing_Line.json');
+const white_fish = require('./systems/White_Fish_Line.json');
 
 const displayProcessingLine = async (lineType: number) => {
   try {
@@ -22,7 +23,7 @@ const displayProcessingLine = async (lineType: number) => {
     } else if (lineType == 2) {
       system_to_send = salmon_slicing;
     } else if (lineType == 3) {
-      system_to_send = old_system;
+      system_to_send = white_fish;
     } else {
       console.error('Invalid lineType:', lineType);
       system_to_send = old_system;
