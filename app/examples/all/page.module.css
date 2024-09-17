@@ -42,3 +42,36 @@
   width: 100%;
   height: 100%;
 }
+
+.infoBox {
+  background-color: #f0f0f0; /* Light gray background */
+  border-radius: 12px; /* Rounded corners */
+  padding: 20px; /* Space inside the box */
+  font-size: 16px; /* Text size */
+  color: #333; /* Text color */
+  width: 100%; /* Full width of the parent */
+  box-sizing: border-box; /* Include padding in the width */
+  text-align: left; /* Align text to the left */
+  line-height: 1.5; /* Line height for readability */
+}
+
+.infoBox p {
+  margin: 10px 0; /* Space between paragraphs */
+}
+
+.infoBox ul {
+  margin: 0 0 10px 20px; /* Margin for the bullet list */
+  padding: 0; /* Remove default padding */
+  list-style-type: disc; /* Disc style for bullets */
+}
+
+.infoBox li {
+  margin: 5px 0; /* Space between list items */
+}
+
+.highlightText {
+  font-size: 18px; /* Increase the font size */
+  color: #0056b3; /* Add a standout color, e.g., blue */
+  font-weight: bold; /* Extra boldness */
+  margin-bottom: 15px; /* Extra margin to separate it from other text */
+}

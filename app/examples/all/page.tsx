@@ -77,7 +77,27 @@ const FunctionCalling = () => {
         <div className={styles.column}>
            <MarelDppWidget img={imgSrc} isEmpty={!imgSrc} />
           {/*<img src="/dpp.jpg" alt="Descriptive Alt Text" className={styles.image} />*/}
-          <FileViewer />
+          {/* <FileViewer /> */}
+          {/* Styled gray box with formatted text */}
+          <div className={styles.infoBox}>
+            <p className={styles.highlightText}>
+              <strong>Marel Fish Processing Sales Expert</strong>
+            </p>
+            <p>
+              <strong>Display Processing Line</strong>: Displays a specific fish processing line. You can select from:
+            </p>
+            <ul>
+              <li>Salmon Filleting Line</li>
+              <li>Salmon Slicing Line</li>
+              <li>Whitefish Filleting Line</li>
+            </ul>
+            <p>
+              <strong>Start Line</strong>: This initiates a simulation of a displayed processing line to showcase its operation.
+            </p>
+            <p>
+              <strong>Move Camera</strong>: Triggers the camera to move around.
+            </p>
+          </div>
         </div>
         <div className={styles.chatContainer}>
           <div className={styles.chat}>
