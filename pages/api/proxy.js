@@ -1,5 +1,5 @@
 export default async function handler(req, res) {
-    const DPP_IP = process.env.DPP_IP || '192.168.52.1';
+    const DPP_IP = process.env.NEXT_PUBLIC_DPP_IP;
     const url = `http://${DPP_IP}:7878/api/screenshot`;
   
     try {

@@ -34,7 +34,7 @@ const FunctionCalling = () => {
 
   const activate = async (url) => {
     try {
-      let DPP_IP = process.env.DPP_IP || '192.168.52.1'; // Default IP if environment variable is not set
+      let DPP_IP = process.env.NEXT_PUBLIC_DPP_IP; // Default IP if environment variable is not set
       console.log("Using DPP_IP:", DPP_IP);
   
       const fullUrl = `http://${DPP_IP}:7878/api/${url}`;

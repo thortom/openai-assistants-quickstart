@@ -12,7 +12,7 @@ const white_fish = require('./systems/White_Fish_Line.json');
 const displayProcessingLine = async (lineType: number) => {
   try {
     // Send the loadProject request to Marel DPP
-    let DPP_IP = process.env.DPP_IP || '192.168.52.1'; // Default to a hardcoded IP if env var is not present
+    let DPP_IP = process.env.NEXT_PUBLIC_DPP_IP; // Default to a hardcoded IP if env var is not present
     console.log("Using DPP_IP:", DPP_IP);
     console.log('process.env:', process.env);
     const url = `http://${DPP_IP}:7878/api/loadProject`;
