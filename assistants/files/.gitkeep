@@ -1,0 +1,4 @@
+# This directory is optional
+# Place any KB files here if you want to vendor them locally instead of using OpenAI-hosted vector stores
+# The provision script will automatically upload files from this directory and create a vector store
+

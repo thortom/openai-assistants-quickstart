@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "provision": "tsx scripts/provision-assistant.ts"
   },
   "dependencies": {
     "dotenv": "^16.4.5",
@@ -21,6 +22,7 @@
   "devDependencies": {
     "@types/node": "20.12.7",
     "@types/react": "18.2.79",
+    "tsx": "^4.7.0",
     "typescript": "5.4.5"
   },
   "prettier": {
